@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Communication in organizations
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-310-managerial-psychology-laboratory-spring-2003/dca4da1eb09e6679bf4c3c66d56cc983_ocwlecture17apr1403communicationinorganizations.pdf
+file: /media/courses/15-310-managerial-psychology-laboratory-spring-2003/dca4da1eb09e6679bf4c3c66d56cc983_ocwlecture17apr1403communicationinorganizations.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ocwlecture17apr1403communicationinorganizations.pdf
 uid: dca4da1e-b09e-6679-bf4c-3c66d56cc983

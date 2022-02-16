@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Data sheet for student religion survey
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-310-managerial-psychology-laboratory-spring-2003/fa2c2ac912fd3455ca9543f33b5f9d9d_hw1religionstudentsurvey.xls
+file: /media/courses/15-310-managerial-psychology-laboratory-spring-2003/fa2c2ac912fd3455ca9543f33b5f9d9d_hw1religionstudentsurvey.xls
 file_type: application/msword
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: hw1religionstudentsurvey.xls
 uid: fa2c2ac9-12fd-3455-ca95-43f33b5f9d9d

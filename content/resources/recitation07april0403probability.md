@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Probability
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-310-managerial-psychology-laboratory-spring-2003/912d69bc3a3a9332b27f4f71cd4b26d5_recitation07april0403probability.pdf
+file: /media/courses/15-310-managerial-psychology-laboratory-spring-2003/912d69bc3a3a9332b27f4f71cd4b26d5_recitation07april0403probability.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: recitation07april0403probability.pdf
 uid: 912d69bc-3a3a-9332-b27f-4f71cd4b26d5
