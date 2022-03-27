@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 702e0e80-1ee9-f304-943b-c5b6bd1e94a5
 resourcetype: Document
 title: recitation04_feb_28_03_experimental_designI.pdf
 uid: 8ae924bd-3b4d-9c95-8fcd-7c76396c20e6

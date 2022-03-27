@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ab29f590-0b4f-7d55-a0b4-21f9e431d45a
 resourcetype: Document
 title: ocwlecture05feb1903changingattitudes.pdf
 uid: 548dca2e-3c35-7db8-a3e0-f3a6e9454ea3

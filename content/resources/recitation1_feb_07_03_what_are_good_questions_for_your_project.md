@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 702e0e80-1ee9-f304-943b-c5b6bd1e94a5
 resourcetype: Document
 title: recitation1_feb_07_03_what_are_good_questions_for_your_project.pdf
 uid: 3a59ac0d-4dc0-0841-b554-abda9b6319ab

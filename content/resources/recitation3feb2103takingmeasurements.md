@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 702e0e80-1ee9-f304-943b-c5b6bd1e94a5
 resourcetype: Document
 title: recitation3feb2103takingmeasurements.pdf
 uid: d7daef8a-0484-64e9-90f2-5f74fd4d00af

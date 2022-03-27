@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ab29f590-0b4f-7d55-a0b4-21f9e431d45a
 resourcetype: Document
 title: ocwlecture11bmar1703thedualladdersystempart2.pdf
 uid: 6b2ac040-4842-96c6-22ad-e808251a3ee0

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 702e0e80-1ee9-f304-943b-c5b6bd1e94a5
 resourcetype: Document
 title: recitation08april1103simplestatistics1.pdf
 uid: 6e491270-8a2c-a441-fc26-ab9136fe6e6f

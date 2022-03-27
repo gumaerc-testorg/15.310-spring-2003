@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 702e0e80-1ee9-f304-943b-c5b6bd1e94a5
 resourcetype: Document
 title: recitation06march1403hypothesistesting.pdf
 uid: 1a6f4ba7-6524-c829-0941-9e37d41a65c7

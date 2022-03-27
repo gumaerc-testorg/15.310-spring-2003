@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ab29f590-0b4f-7d55-a0b4-21f9e431d45a
 resourcetype: Document
 title: ocwlecture19apr2303thegatekeeper.pdf
 uid: 989c97d9-b08f-92f1-5dd9-17b0bdc9cc0c

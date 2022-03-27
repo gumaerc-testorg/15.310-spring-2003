@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3016f140-795b-66e0-680a-86be609fd653
 resourcetype: Other
 title: hw1religionstudentsurvey.xls
 uid: fa2c2ac9-12fd-3455-ca95-43f33b5f9d9d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 72943117-44cc-89e1-1c60-44ff1c6046a1
 resourcetype: Document
 title: groupprojectproposaltemplate.pdf
 uid: e410164f-9d55-6aac-20b7-6c4a5428ec57

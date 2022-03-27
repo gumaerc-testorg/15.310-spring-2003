@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3016f140-795b-66e0-680a-86be609fd653
 resourcetype: Document
 title: hw2religionstudentinstructions.pdf
 uid: f00b649e-955a-045c-c5fc-f8c7cd93a872
