@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -33,7 +34,7 @@ Files
 Introduction: What are good questions for your project?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/recitation1_feb_07_03_what_are_good_questions_for_your_project))
+({{% resource_link 3a59ac0d-4dc0-0841-b554-abda9b6319ab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Introduction: What are good questions for your project?
 Critical Thinking
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/recitation2feb1403criticalthinking))
+({{% resource_link 81ded349-fbeb-61a5-ae06-5ae4a671fd73 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +58,7 @@ Critical Thinking
 Taking Measurements
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/recitation3feb2103takingmeasurements))
+({{% resource_link d7daef8a-0484-64e9-90f2-5f74fd4d00af "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ Taking Measurements
 Experimental Design I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/recitation04_feb_28_03_experimental_designi))
+({{% resource_link 8ae924bd-3b4d-9c95-8fcd-7c76396c20e6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Experimental Design I
 Feedback about Projects
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/recitation05march0703ideas))
+({{% resource_link 4fe9e784-84d4-d607-e351-63237ff12bbe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +94,7 @@ Feedback about Projects
 Probablility Theory, Sampling and Randomness
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/recitation06march1403hypothesistesting))
+({{% resource_link 1a6f4ba7-6524-c829-0941-9e37d41a65c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +106,7 @@ Probablility Theory, Sampling and Randomness
 Probability
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0MB]({{< baseurl >}}/resources/recitation07april0403probability))
+({{% resource_link 912d69bc-3a3a-9332-b27f-4f71cd4b26d5 "PDF - 1.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ Probability
 Simple Statistics I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7MB]({{< baseurl >}}/resources/recitation08april1103simplestatistics1))
+({{% resource_link 6e491270-8a2c-a441-fc26-ab9136fe6e6f "PDF - 1.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +130,7 @@ Simple Statistics I
 Statistics Homework
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/recitation09april2503_simplestatistics2))
+({{% resource_link 03a6d924-e59d-c955-3a1a-5f51054ae513 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

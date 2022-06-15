@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Process of Innovation
-file: /media/courses/15-310-managerial-psychology-laboratory-spring-2003/2507e4f72ffb8db3e27ee0191273d724_lecture15c.pdf
+file: /courses/15-310-managerial-psychology-laboratory-spring-2003/2507e4f72ffb8db3e27ee0191273d724_lecture15c.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lecture15c.pdf
 uid: 2507e4f7-2ffb-8db3-e27e-e0191273d724
 ---
+The Process of Innovation
+
