@@ -5,6 +5,7 @@ file: /courses/15-310-managerial-psychology-laboratory-spring-2003/c34758f4604d9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture12.pdf
 uid: c34758f4-604d-9898-d18a-63d8f2fa78c3
 ---
 Communication by New Hires Compared with Veteran Employees
-

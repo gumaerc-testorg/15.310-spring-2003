@@ -5,6 +5,7 @@ file: /courses/15-310-managerial-psychology-laboratory-spring-2003/d7daef8a04846
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: recitation3feb2103takingmeasurements.pdf
 uid: d7daef8a-0484-64e9-90f2-5f74fd4d00af
 ---
 Taking Measurements
-

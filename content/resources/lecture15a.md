@@ -5,6 +5,7 @@ file: /courses/15-310-managerial-psychology-laboratory-spring-2003/b7cc58c8113e4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture15a.pdf
 uid: b7cc58c8-113e-449e-29d4-67015070d120
 ---
 Communication Mapping
-

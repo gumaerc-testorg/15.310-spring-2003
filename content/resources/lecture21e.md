@@ -5,6 +5,7 @@ file: /courses/15-310-managerial-psychology-laboratory-spring-2003/150aa457acf60
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture21e.pdf
 uid: 150aa457-acf6-04d8-cf74-9605655b57b8
 ---
 The Effects and Organizational Separation as Measured in One Organization
-

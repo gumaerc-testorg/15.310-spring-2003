@@ -5,6 +5,7 @@ file: /courses/15-310-managerial-psychology-laboratory-spring-2003/9582b254467f6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture18.pdf
 uid: 9582b254-467f-6c23-153a-3f65e20adf7c
 ---
 Management of Transitions
-

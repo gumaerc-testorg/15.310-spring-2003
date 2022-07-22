@@ -5,6 +5,7 @@ file: /courses/15-310-managerial-psychology-laboratory-spring-2003/912d69bc3a3a9
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: recitation07april0403probability.pdf
 uid: 912d69bc-3a3a-9332-b27f-4f71cd4b26d5
 ---
 Probability
-

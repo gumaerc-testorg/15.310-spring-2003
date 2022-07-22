@@ -5,6 +5,7 @@ file: /courses/15-310-managerial-psychology-laboratory-spring-2003/25077774b4e03
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: individualwritingassignment.pdf
 uid: 25077774-b4e0-35e9-a67a-3af8983fed9f
 ---
 Writing Requirement Assignment
-

@@ -5,6 +5,7 @@ file: /courses/15-310-managerial-psychology-laboratory-spring-2003/81ded349fbeb6
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: recitation2Feb1403criticalthinking.pdf
 uid: 81ded349-fbeb-61a5-ae06-5ae4a671fd73
 ---
 Critical thinking
-

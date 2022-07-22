@@ -5,6 +5,7 @@ file: /courses/15-310-managerial-psychology-laboratory-spring-2003/dca4da1eb09e6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ocwlecture17apr1403communicationinorganizations.pdf
 uid: dca4da1e-b09e-6679-bf4c-3c66d56cc983
 ---
 Communication in organizations
-

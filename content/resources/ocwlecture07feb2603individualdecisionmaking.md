@@ -5,6 +5,7 @@ file: /courses/15-310-managerial-psychology-laboratory-spring-2003/2f965192fb9cf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ocwlecture07feb2603individualdecisionmaking.pdf
 uid: 2f965192-fb9c-f89b-dc4c-fef2cb8ee1fb
 ---
 Individual decision making
-
