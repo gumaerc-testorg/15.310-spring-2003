@@ -2,6 +2,7 @@
 content_type: resource
 description: The Dual Ladder System Part 1
 file: /courses/15-310-managerial-psychology-laboratory-spring-2003/381cf08ad961679155c393d111b81ce8_ocwlecture11amar1203thedualladdersystempart1.pdf
+file_size: 239411
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

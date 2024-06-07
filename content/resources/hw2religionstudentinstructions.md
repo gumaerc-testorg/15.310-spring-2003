@@ -2,6 +2,7 @@
 content_type: resource
 description: Religion student instructions
 file: /courses/15-310-managerial-psychology-laboratory-spring-2003/f00b649e955a045cc5fcf8c7cd93a872_hw2religionstudentinstructions.pdf
+file_size: 34481
 file_type: application/pdf
 learning_resource_types:
 - Assignments

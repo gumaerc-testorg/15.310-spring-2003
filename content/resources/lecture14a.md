@@ -2,6 +2,7 @@
 content_type: resource
 description: One Way of Organizing
 file: /courses/15-310-managerial-psychology-laboratory-spring-2003/8b8606f32066161e9620426629a2d1ad_lecture14a.pdf
+file_size: 27397
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

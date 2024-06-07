@@ -2,6 +2,7 @@
 content_type: resource
 description: Taking Measurements
 file: /courses/15-310-managerial-psychology-laboratory-spring-2003/d7daef8a048464e990f25f74fd4d00af_recitation3feb2103takingmeasurements.pdf
+file_size: 181820
 file_type: application/pdf
 learning_resource_types:
 - Recitations
