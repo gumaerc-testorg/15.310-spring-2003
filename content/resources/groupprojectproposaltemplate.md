@@ -2,6 +2,7 @@
 content_type: resource
 description: Group Project Proposal Template
 file: /courses/15-310-managerial-psychology-laboratory-spring-2003/e410164f9d556aac20b76c4a5428ec57_groupprojectproposaltemplate.pdf
+file_size: 51219
 file_type: application/pdf
 learning_resource_types:
 - Projects

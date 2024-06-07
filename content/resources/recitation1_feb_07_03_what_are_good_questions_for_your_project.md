@@ -4,6 +4,7 @@ description: This resource contains information related to the good questions fo
   your project, ethcics in research, stanley's milgram electrical shocking, and a
   few interesting projects.
 file: /courses/15-310-managerial-psychology-laboratory-spring-2003/3a59ac0d4dc00841b554abda9b6319ab_recitation1_feb_07_03_what_are_good_questions_for_your_project.pdf
+file_size: 896569
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -2,6 +2,7 @@
 content_type: resource
 description: Partial Layout of the BMW Forschung und Ingenieurung Zentrum
 file: /courses/15-310-managerial-psychology-laboratory-spring-2003/5115705a89bcf7c8fe02fe951730e507_lecture14d.pdf
+file_size: 431278
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

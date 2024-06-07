@@ -2,6 +2,7 @@
 content_type: resource
 description: Phases of a Career or Sub Career
 file: /courses/15-310-managerial-psychology-laboratory-spring-2003/0f4f866cee71a19886573b1c702f71e4_ocwlecture14apr0203phasesofacareerorsubcareer.pdf
+file_size: 56412
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

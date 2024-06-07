@@ -2,6 +2,7 @@
 content_type: resource
 description: A Managerial Career
 file: /courses/15-310-managerial-psychology-laboratory-spring-2003/60ccb8bd92c2de7772530c544b059944_lecture5.pdf
+file_size: 170224
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Overview of Organizations
 file: /courses/15-310-managerial-psychology-laboratory-spring-2003/14bd83eb1ce0c4647cc58b4a73c4a2b9_lecture2feb1003overviewoforganizations.pdf
+file_size: 63966
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
