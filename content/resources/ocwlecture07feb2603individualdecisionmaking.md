@@ -2,6 +2,7 @@
 content_type: resource
 description: Individual decision making
 file: /courses/15-310-managerial-psychology-laboratory-spring-2003/2f965192fb9cf89bdc4cfef2cb8ee1fb_ocwlecture07feb2603individualdecisionmaking.pdf
+file_size: 227164
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

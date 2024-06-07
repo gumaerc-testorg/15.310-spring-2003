@@ -2,6 +2,7 @@
 content_type: resource
 description: The Effects and Organizational Separation as Measured in One Organization
 file: /courses/15-310-managerial-psychology-laboratory-spring-2003/150aa457acf604d8cf749605655b57b8_lecture21e.pdf
+file_size: 143660
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

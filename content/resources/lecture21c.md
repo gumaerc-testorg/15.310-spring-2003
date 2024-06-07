@@ -2,6 +2,7 @@
 content_type: resource
 description: Effect of New Building on Breadth of Communication
 file: /courses/15-310-managerial-psychology-laboratory-spring-2003/3a4eacb0fec47cf406726aafec9fd4d7_lecture21c.pdf
+file_size: 485916
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
