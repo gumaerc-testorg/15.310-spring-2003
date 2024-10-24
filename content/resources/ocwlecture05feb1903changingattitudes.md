@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Changing attitudes
-file: /courses/15-310-managerial-psychology-laboratory-spring-2003/548dca2e3c357db8a3e0f3a6e9454ea3_ocwlecture05feb1903changingattitudes.pdf
+file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/548dca2e3c357db8a3e0f3a6e9454ea3_ocwlecture05feb1903changingattitudes.pdf
 file_size: 90635
 file_type: application/pdf
 learning_resource_types:

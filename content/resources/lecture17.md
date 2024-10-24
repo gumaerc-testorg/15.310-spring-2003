@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Basic Tradeoff and Dilemma in Product Development Organization
-file: /courses/15-310-managerial-psychology-laboratory-spring-2003/32993db5847c7f50dc26772deb67a927_lecture17.pdf
+file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/32993db5847c7f50dc26772deb67a927_lecture17.pdf
 file_size: 124901
 file_type: application/pdf
 learning_resource_types:

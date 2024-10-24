@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Social perception and attitudes
-file: /courses/15-310-managerial-psychology-laboratory-spring-2003/4930cc3c15e095f1b69000d9f8902e8d_lecture3feb1203socialperceptionandattitudes.pdf
+file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/4930cc3c15e095f1b69000d9f8902e8d_lecture3feb1203socialperceptionandattitudes.pdf
 file_size: 685129
 file_type: application/pdf
 learning_resource_types:
