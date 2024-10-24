@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Simple statistics
-file: /courses/15-310-managerial-psychology-laboratory-spring-2003/6e4912708a2ca441fc26ab9136fe6e6f_recitation08april1103simplestatistics1.pdf
+file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/6e4912708a2ca441fc26ab9136fe6e6f_recitation08april1103simplestatistics1.pdf
 file_size: 1768264
 file_type: application/pdf
 learning_resource_types:

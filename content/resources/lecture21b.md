@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Effect of Organization II
-file: /courses/15-310-managerial-psychology-laboratory-spring-2003/ee9e5bdec2f443714d25eca921fbcce4_lecture21b.pdf
+file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/ee9e5bdec2f443714d25eca921fbcce4_lecture21b.pdf
 file_size: 149405
 file_type: application/pdf
 learning_resource_types:

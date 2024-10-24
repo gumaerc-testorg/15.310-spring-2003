@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Communication
-file: /courses/15-310-managerial-psychology-laboratory-spring-2003/e7e465f5e08a11c86b63a8921e913107_ocwlecture13mar3103communication.pdf
+file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/e7e465f5e08a11c86b63a8921e913107_ocwlecture13mar3103communication.pdf
 file_size: 288752
 file_type: application/pdf
 learning_resource_types:
