@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Data sheet for student religion survey
-file: /courses/15-310-managerial-psychology-laboratory-spring-2003/fa2c2ac912fd3455ca9543f33b5f9d9d_hw1religionstudentsurvey.xls
+file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/fa2c2ac912fd3455ca9543f33b5f9d9d_hw1religionstudentsurvey.xls
 file_size: 23040
 file_type: application/msword
 learning_resource_types:
