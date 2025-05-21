@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Religion student survey
-file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/4b818f2dcf2eb3a7fd1449d90985c524_hw1religionstudentsurvey.pdf
+file: /courses/15-310-managerial-psychology-laboratory-spring-2003/4b818f2dcf2eb3a7fd1449d90985c524_hw1religionstudentsurvey.pdf
 file_size: 64874
 file_type: application/pdf
 learning_resource_types:

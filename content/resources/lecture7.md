@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project Performance as a Function of Team Age
-file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/904a5c2aaea3d8e988309e4082774922_lecture7.pdf
+file: /courses/15-310-managerial-psychology-laboratory-spring-2003/904a5c2aaea3d8e988309e4082774922_lecture7.pdf
 file_size: 61045
 file_type: application/pdf
 learning_resource_types:
