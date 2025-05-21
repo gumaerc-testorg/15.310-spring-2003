@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Knowledge transfer
-file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/1a7df55449982b9cebe0fd5908bbe043_ocwlecture18apr1603knowledgetransfer.pdf
+file: /courses/15-310-managerial-psychology-laboratory-spring-2003/1a7df55449982b9cebe0fd5908bbe043_ocwlecture18apr1603knowledgetransfer.pdf
 file_size: 1067347
 file_type: application/pdf
 learning_resource_types:

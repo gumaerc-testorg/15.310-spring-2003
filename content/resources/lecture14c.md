@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: People as Sources of Technology
-file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/73b3817dc0c0dbe58d1c31a10c56ce57_lecture14c.pdf
+file: /courses/15-310-managerial-psychology-laboratory-spring-2003/73b3817dc0c0dbe58d1c31a10c56ce57_lecture14c.pdf
 file_size: 139017
 file_type: application/pdf
 learning_resource_types:

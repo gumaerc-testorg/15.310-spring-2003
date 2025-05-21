@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to good experiment, first
   experiment, art of setting experiments, single cell designs, random assignment,
   the importance of manipulations and interactions.
-file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/8ae924bd3b4d9c958fcd7c76396c20e6_recitation04_feb_28_03_experimental_designI.pdf
+file: /courses/15-310-managerial-psychology-laboratory-spring-2003/8ae924bd3b4d9c958fcd7c76396c20e6_recitation04_feb_28_03_experimental_designI.pdf
 file_size: 144805
 file_type: application/pdf
 learning_resource_types:
