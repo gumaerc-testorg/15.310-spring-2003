@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Knowledge Management part 2
-file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/fcde83bcec00736018d436208c20ce04_ocwlecture15bapr0703knowledgemanagementpart2.pdf
+file: /courses/15-310-managerial-psychology-laboratory-spring-2003/fcde83bcec00736018d436208c20ce04_ocwlecture15bapr0703knowledgemanagementpart2.pdf
 file_size: 306186
 file_type: application/pdf
 learning_resource_types:

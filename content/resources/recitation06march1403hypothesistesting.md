@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Hypothesis testing I
-file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/1a6f4ba76524c82909419e37d41a65c7_recitation06march1403hypothesistesting.pdf
+file: /courses/15-310-managerial-psychology-laboratory-spring-2003/1a6f4ba76524c82909419e37d41a65c7_recitation06march1403hypothesistesting.pdf
 file_size: 95843
 file_type: application/pdf
 learning_resource_types:

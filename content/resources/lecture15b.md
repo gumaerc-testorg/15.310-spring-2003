@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Communication Network in a Small Laboratory
-file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/a53eadbca1644116060ed4570bbed5f0_lecture15b.pdf
+file: /courses/15-310-managerial-psychology-laboratory-spring-2003/a53eadbca1644116060ed4570bbed5f0_lecture15b.pdf
 file_size: 277216
 file_type: application/pdf
 learning_resource_types:

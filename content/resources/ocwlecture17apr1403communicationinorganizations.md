@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Communication in organizations
-file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/dca4da1eb09e6679bf4c3c66d56cc983_ocwlecture17apr1403communicationinorganizations.pdf
+file: /courses/15-310-managerial-psychology-laboratory-spring-2003/dca4da1eb09e6679bf4c3c66d56cc983_ocwlecture17apr1403communicationinorganizations.pdf
 file_size: 487012
 file_type: application/pdf
 learning_resource_types:

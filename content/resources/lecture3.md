@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Components of an Attitude
-file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/a2baff7ea5509b0c972b5ebdd19bd346_lecture3.pdf
+file: /courses/15-310-managerial-psychology-laboratory-spring-2003/a2baff7ea5509b0c972b5ebdd19bd346_lecture3.pdf
 file_size: 54204
 file_type: application/pdf
 learning_resource_types:

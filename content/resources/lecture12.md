@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Communication by New Hires Compared with Veteran Employees
-file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/c34758f4604d9898d18a63d8f2fa78c3_lecture12.pdf
+file: /courses/15-310-managerial-psychology-laboratory-spring-2003/c34758f4604d9898d18a63d8f2fa78c3_lecture12.pdf
 file_size: 57847
 file_type: application/pdf
 learning_resource_types:
