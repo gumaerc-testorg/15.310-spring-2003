@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Gatekeeper
-file: /courses/15-310-managerial-psychology-laboratory-spring-2003/989c97d9b08f92f15dd917b0bdc9cc0c_ocwlecture19apr2303thegatekeeper.pdf
+file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/989c97d9b08f92f15dd917b0bdc9cc0c_ocwlecture19apr2303thegatekeeper.pdf
 file_size: 539626
 file_type: application/pdf
 learning_resource_types:

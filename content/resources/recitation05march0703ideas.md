@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Ideas
-file: /courses/15-310-managerial-psychology-laboratory-spring-2003/4fe9e78484d4d607e35163237ff12bbe_recitation05march0703ideas.pdf
+file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/4fe9e78484d4d607e35163237ff12bbe_recitation05march0703ideas.pdf
 file_size: 73605
 file_type: application/pdf
 learning_resource_types:
