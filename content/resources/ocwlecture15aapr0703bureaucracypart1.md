@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Bureaucracy part1
-file: /courses/15-310-managerial-psychology-laboratory-spring-2003/497403db16e7dd2aed01cfb8463e2858_ocwlecture15aapr0703bureaucracypart1.pdf
+file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/497403db16e7dd2aed01cfb8463e2858_ocwlecture15aapr0703bureaucracypart1.pdf
 file_size: 171099
 file_type: application/pdf
 learning_resource_types:
