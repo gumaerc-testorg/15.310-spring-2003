@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Critical thinking
-file: /courses/15-310-managerial-psychology-laboratory-spring-2003/81ded349fbeb61a5ae065ae4a671fd73_recitation2Feb1403criticalthinking.pdf
+file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/81ded349fbeb61a5ae065ae4a671fd73_recitation2Feb1403criticalthinking.pdf
 file_size: 97862
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Writing Requirement Assignment
-file: /courses/15-310-managerial-psychology-laboratory-spring-2003/25077774b4e035e9a67a3af8983fed9f_individualwritingassignment.pdf
+file: /ol-ocw-studio-app/courses/15-310-managerial-psychology-laboratory-spring-2003/25077774b4e035e9a67a3af8983fed9f_individualwritingassignment.pdf
 file_size: 115991
 file_type: application/pdf
 learning_resource_types:
